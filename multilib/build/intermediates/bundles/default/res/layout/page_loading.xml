@@ -1,0 +1,32 @@
+<!-- 加载内容为list,list长度为空的布局 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl_loading_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <com.github.ybq.android.spinkit.SpinKitView
+            android:id="@+id/loading_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:indeterminateOnly="true"
+            android:maxHeight="48dp"
+            android:maxWidth="48dp"
+            android:minHeight="48dp"
+            android:minWidth="48dp"
+            android:padding="10dp" />
+    </FrameLayout>
+
+</FrameLayout>

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\chatting_setmode_keyboard_btn_normal.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\chatting_setmode_keyboard_btn_normal.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\emoji_icon.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\emoji_icon.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_bottom_offen.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_bottom_offen.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tongbao_hiv.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tongbao_hiv.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\emoji.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\emoji.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_bottom_take_photo.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_bottom_take_photo.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\receiver_voice_node_playing002.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\receiver_voice_node_playing002.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\v_anim1.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\v_anim1.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\v_anim2.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\v_anim2.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\voice_btn_normal.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\voice_btn_normal.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_dialog_loading_bg.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_dialog_loading_bg.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_voice1.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_voice1.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_more.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_more.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\v_anim3.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\v_anim3.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_voice3.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_voice3.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\receiver_voice_node_playing003.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\receiver_voice_node_playing003.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\msg_chat_voice_unread.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\msg_chat_voice_unread.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\receiver_voice_node_playing000.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\receiver_voice_node_playing000.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\delete_expression.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\delete_expression.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\cygs_cs.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\cygs_cs.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\adj.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\adj.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\receiver_voice_node_playing.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\receiver_voice_node_playing.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\grzx_tx_s.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\grzx_tx_s.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_voice2.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_voice2.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\cancel.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\receiver_voice_node_playing001.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\receiver_voice_node_playing001.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\tb_bottom_images.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\tb_bottom_images.png"
+    },
+    {
+        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\voice_to_short.png",
+        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\mipmap-xhdpi\\voice_to_short.png"
+    }
+]

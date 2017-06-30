@@ -1,0 +1,1 @@
+include ':app', ':emojiLibrary', ':chatlib', ':swipeLayoutLib', ':sharephoto', ':camerafragment', ':multilib', ':zps_widget_PullToRefresh', ':wavesidebar'

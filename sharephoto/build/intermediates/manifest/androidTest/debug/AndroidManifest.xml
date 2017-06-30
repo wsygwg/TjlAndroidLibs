@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.com.hiss.www.sharephoto.test" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for cn.com.hiss.www.sharephoto.test"
+        android:targetPackage="cn.com.hiss.www.sharephoto.test" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:configChanges="orientation|screenSize|keyboardHidden|keyboard|"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="cn.com.hiss.www.sharephoto.activity.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="cn.com.hiss.www.sharephoto.activity.AlbumActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="cn.com.hiss.www.sharephoto.activity.ImageFile" />
+        <activity android:name="cn.com.hiss.www.sharephoto.activity.ShowAllPhoto" />
+        <activity android:name="cn.com.hiss.www.sharephoto.activity.GalleryActivity" />
+    </application>
+
+</manifest>

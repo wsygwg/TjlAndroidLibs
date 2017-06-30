@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TjlAndroidLibs.iml" filepath="$PROJECT_DIR$/TjlAndroidLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerafragment/camerafragment.iml" filepath="$PROJECT_DIR$/camerafragment/camerafragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatlib/chatlib.iml" filepath="$PROJECT_DIR$/chatlib/chatlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emojiLibrary/emojiLibrary.iml" filepath="$PROJECT_DIR$/emojiLibrary/emojiLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multilib/multilib.iml" filepath="$PROJECT_DIR$/multilib/multilib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharephoto/sharephoto.iml" filepath="$PROJECT_DIR$/sharephoto/sharephoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeLayoutLib/swipeLayoutLib.iml" filepath="$PROJECT_DIR$/swipeLayoutLib/swipeLayoutLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wavesidebar/wavesidebar.iml" filepath="$PROJECT_DIR$/wavesidebar/wavesidebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zps_widget_PullToRefresh/zps_widget_PullToRefresh.iml" filepath="$PROJECT_DIR$/zps_widget_PullToRefresh/zps_widget_PullToRefresh.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/layout_tongbao_rl"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/chat_main_bg"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <com.baoyz.widget.PullRefreshLayout
+        android:id="@+id/content_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:listSelector="@android:color/transparent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/id_hiss_recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            android:scrollbarStyle="outsideOverlay"
+            android:scrollbars="vertical"
+            android:scrollingCache="false"
+            android:stackFromBottom="true"
+            android:transcriptMode="alwaysScroll"/>
+    </com.baoyz.widget.PullRefreshLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_container_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/tongbao_utils"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/frame_bg"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="5dp">
+
+            <TextView
+                android:id="@+id/voice_tv"
+                style="@style/bottomIcon"
+                android:layout_gravity="center_vertical"
+                android:text="&#xe620;"/>
+
+            <!--<com.maxi.chatdemo.widget.GifEditText-->
+                <!--android:id="@+id/mess_et"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="center_vertical"-->
+                <!--android:layout_weight="1"-->
+                <!--android:background="@drawable/xmxq_tc_bj"-->
+                <!--android:imeOptions="actionSend"-->
+                <!--android:inputType="text"-->
+                <!--android:padding="5dp"-->
+                <!--android:textColor="@color/black4"-->
+                <!--android:textSize="16dp"/>-->
+
+            <io.github.rockerhieu.emojicon.EmojiconEditText
+                android:id="@+id/mess_et"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@drawable/xmxq_tc_bj"
+                android:imeOptions="actionSend"
+                android:inputType="text"
+                android:padding="5dp"
+                android:textColor="@color/black4"
+                android:textSize="16dp"/>
+
+            <com.maxi.chatdemo.widget.AudioRecordButton
+                android:id="@+id/voice_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/button_recordnormal"
+                android:gravity="center"
+                android:minHeight="0dp"
+                android:padding="5dp"
+                android:text="@string/normal"
+                android:textColor="#727272"
+                android:visibility="gone"></com.maxi.chatdemo.widget.AudioRecordButton>
+
+            <TextView
+                android:id="@+id/emoji"
+                style="@style/bottomIcon"
+                android:layout_gravity="center_vertical"
+                android:text="&#xe616;"/>
+
+            <TextView
+                android:id="@+id/mess_tv"
+                style="@style/bottomIcon"
+                android:layout_gravity="center_vertical"
+                android:text="&#xe62a;"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/emoji_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#E3E3E3"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <FrameLayout
+                android:id="@+id/emojicons"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/y150" />
+
+            <!--<android.support.v4.view.ViewPager-->
+                <!--android:id="@+id/vPager"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="150dp"-->
+                <!--android:layout_marginTop="3dp"-->
+                <!--android:background="@color/light_gray_2"/>-->
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content">-->
+
+                <!--<TextView-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"/>-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/send_emoji_icon"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentRight="true"-->
+                    <!--android:background="@drawable/frame_blue_to_thin_bg"-->
+                    <!--android:paddingBottom="5dp"-->
+                    <!--android:paddingLeft="10dp"-->
+                    <!--android:paddingRight="10dp"-->
+                    <!--android:paddingTop="5dp"-->
+                    <!--android:text="发送"-->
+                    <!--android:textColor="@color/white"-->
+                    <!--android:textSize="16dp"/>-->
+            <!--</LinearLayout>-->
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.maxi.chatdemo.widget.ChatBottomView
+                android:id="@+id/other_lv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+
+            <ListView
+                android:id="@+id/mess_lv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#E3E3E3"
+                android:visibility="gone"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>
