@@ -1,34 +1,34 @@
 [
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
     }
 ]

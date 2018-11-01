@@ -14,26 +14,26 @@ public final class R {
         public static int stackFromEnd = 0x7f010172;
     }
     public static final class dimen {
-        public static int activity_horizontal_margin = 0x7f070330;
-        public static int activity_vertical_margin = 0x7f07036d;
-        public static int item_touch_helper_max_drag_scroll_per_frame = 0x7f07037a;
-        public static int item_touch_helper_swipe_escape_max_velocity = 0x7f07037b;
-        public static int item_touch_helper_swipe_escape_velocity = 0x7f07037c;
+        public static int activity_horizontal_margin = 0x7f080330;
+        public static int activity_vertical_margin = 0x7f08036d;
+        public static int item_touch_helper_max_drag_scroll_per_frame = 0x7f08037a;
+        public static int item_touch_helper_swipe_escape_max_velocity = 0x7f08037b;
+        public static int item_touch_helper_swipe_escape_velocity = 0x7f08037c;
     }
     public static final class id {
-        public static int item_touch_helper_previous_elevation = 0x7f0e0005;
+        public static int item_touch_helper_previous_elevation = 0x7f0f0005;
     }
     public static final class menu {
-        public static int menu_main = 0x7f0f0000;
+        public static int menu_main = 0x7f100000;
     }
     public static final class mipmap {
         public static int ic_launcher = 0x7f030000;
         public static int icon_photo = 0x7f030001;
     }
     public static final class string {
-        public static int action_settings = 0x7f080024;
-        public static int app_name = 0x7f080026;
-        public static int hello_world = 0x7f08002e;
+        public static int action_settings = 0x7f090024;
+        public static int app_name = 0x7f090026;
+        public static int hello_world = 0x7f09002e;
     }
     public static final class styleable {
         public static int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f01016f, 0x7f010170, 0x7f010171, 0x7f010172 };

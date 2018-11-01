@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DynamicGrid/DynamicGrid.iml" filepath="$PROJECT_DIR$/DynamicGrid/DynamicGrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/TjlAndroidLibs.iml" filepath="$PROJECT_DIR$/TjlAndroidLibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/camerafragment/camerafragment.iml" filepath="$PROJECT_DIR$/camerafragment/camerafragment.iml" />

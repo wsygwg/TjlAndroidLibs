@@ -1,8 +1,12 @@
 package com.zps.libs.tao.tjlandroidlibs;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
+
+import nuctech.photoelectricity.rnd.dynamicgrid.grid.GridActivity;
 
 public class MainTestActivity extends AppCompatActivity {
 
@@ -19,6 +23,12 @@ public class MainTestActivity extends AppCompatActivity {
         // Example of a call to a native method
         TextView tv = (TextView) findViewById(R.id.sample_text);
         tv.setText(stringFromJNI());
+        tv.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainTestActivity.this,GridActivity.class));
+            }
+        });
     }
 
     /**

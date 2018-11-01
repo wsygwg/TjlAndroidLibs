@@ -1,58 +1,58 @@
 [
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\popup_enter.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\popup_enter.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\popup_exit.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\popup_exit.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\activity_translate_in.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\activity_translate_in.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_out.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\activity_translate_out.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_out.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\src\\main\\res\\anim\\activity_translate_out.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\anim\\abc_popup_exit.xml"
     }
 ]

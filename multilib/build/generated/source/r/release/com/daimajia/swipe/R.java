@@ -21,18 +21,18 @@ public final class R {
         public static int topEdgeSwipeOffset = 0x7f0101f4;
     }
     public static final class dimen {
-        public static int item_touch_helper_max_drag_scroll_per_frame = 0x7f07037a;
-        public static int item_touch_helper_swipe_escape_max_velocity = 0x7f07037b;
-        public static int item_touch_helper_swipe_escape_velocity = 0x7f07037c;
+        public static int item_touch_helper_max_drag_scroll_per_frame = 0x7f08037a;
+        public static int item_touch_helper_swipe_escape_max_velocity = 0x7f08037b;
+        public static int item_touch_helper_swipe_escape_velocity = 0x7f08037c;
     }
     public static final class id {
-        public static int bottom = 0x7f0e0034;
-        public static int item_touch_helper_previous_elevation = 0x7f0e0005;
-        public static int lay_down = 0x7f0e0058;
-        public static int left = 0x7f0e0056;
-        public static int pull_out = 0x7f0e0059;
-        public static int right = 0x7f0e0057;
-        public static int top = 0x7f0e0036;
+        public static int bottom = 0x7f0f0034;
+        public static int item_touch_helper_previous_elevation = 0x7f0f0005;
+        public static int lay_down = 0x7f0f0058;
+        public static int left = 0x7f0f0056;
+        public static int pull_out = 0x7f0f0059;
+        public static int right = 0x7f0f0057;
+        public static int top = 0x7f0f0036;
     }
     public static final class styleable {
         public static int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f01016f, 0x7f010170, 0x7f010171, 0x7f010172 };

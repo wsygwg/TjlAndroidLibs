@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\android-testing-master\ui\espresso\TjlAndroidLibs\sharephoto\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="D:\android-testing-master\ui\espresso\TjlAndroidLibs\sharephoto\src\release\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\workspaces\studio_workspace\TjlAndroidLibs\sharephoto\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\workspaces\studio_workspace\TjlAndroidLibs\sharephoto\src\release\jniLibs"/></dataSet></merger>

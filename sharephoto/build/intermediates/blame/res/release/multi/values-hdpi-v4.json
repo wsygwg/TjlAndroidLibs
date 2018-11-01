@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

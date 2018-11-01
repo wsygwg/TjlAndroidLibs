@@ -13,11 +13,11 @@ public final class R {
         public static int refreshType = 0x7f010245;
     }
     public static final class id {
-        public static int circles = 0x7f0e005e;
-        public static int material = 0x7f0e005f;
-        public static int ring = 0x7f0e0060;
-        public static int smartisan = 0x7f0e0061;
-        public static int water_drop = 0x7f0e0062;
+        public static int circles = 0x7f0f005e;
+        public static int material = 0x7f0f005f;
+        public static int ring = 0x7f0f0060;
+        public static int smartisan = 0x7f0f0061;
+        public static int water_drop = 0x7f0f0062;
     }
     public static final class styleable {
         public static int[] refresh_PullRefreshLayout = { 0x7f010245, 0x7f010246, 0x7f010247 };

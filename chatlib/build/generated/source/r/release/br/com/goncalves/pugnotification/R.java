@@ -8,40 +8,40 @@ package br.com.goncalves.pugnotification;
 
 public final class R {
     public static final class array {
-        public static int pugnotification_reply_choices = 0x7f0d0000;
+        public static int pugnotification_reply_choices = 0x7f0e0000;
     }
     public static final class color {
-        public static int pugnotification_background = 0x7f0c0104;
-        public static int pugnotification_color_white = 0x7f0c0105;
+        public static int pugnotification_background = 0x7f0d0104;
+        public static int pugnotification_color_white = 0x7f0d0105;
     }
     public static final class dimen {
-        public static int pugnotification_dimension_default = 0x7f0703af;
-        public static int pugnotification_text_size_subtitle = 0x7f0703b0;
-        public static int pugnotification_text_size_title = 0x7f0703b1;
+        public static int pugnotification_dimension_default = 0x7f0803af;
+        public static int pugnotification_text_size_subtitle = 0x7f0803b0;
+        public static int pugnotification_text_size_title = 0x7f0803b1;
     }
     public static final class drawable {
         public static int pugnotification_ic_launcher = 0x7f02073b;
         public static int pugnotification_ic_placeholder = 0x7f02073c;
     }
     public static final class id {
-        public static int notification_content_information = 0x7f0e0170;
-        public static int notification_content_main = 0x7f0e016e;
-        public static int notification_img_background = 0x7f0e016f;
-        public static int notification_img_icon = 0x7f0e0172;
-        public static int notification_text_message = 0x7f0e0173;
-        public static int notification_text_title = 0x7f0e0171;
+        public static int notification_content_information = 0x7f0f01a4;
+        public static int notification_content_main = 0x7f0f01a2;
+        public static int notification_img_background = 0x7f0f01a3;
+        public static int notification_img_icon = 0x7f0f01a6;
+        public static int notification_text_message = 0x7f0f01a7;
+        public static int notification_text_title = 0x7f0f01a5;
     }
     public static final class layout {
-        public static int pugnotification_custom = 0x7f040067;
+        public static int pugnotification_custom = 0x7f040068;
     }
     public static final class string {
-        public static int pugnotification_key_voice_reply = 0x7f080047;
-        public static int pugnotification_label_voice_reply = 0x7f080048;
-        public static int pugnotification_text_description_image_background = 0x7f080049;
-        public static int pugnotification_text_description_image_icon = 0x7f08004a;
-        public static int pugnotification_text_message = 0x7f08004b;
-        public static int pugnotification_text_notification = 0x7f08004c;
-        public static int pugnotification_text_notification_custom = 0x7f08004d;
-        public static int pugnotification_text_title = 0x7f08004e;
+        public static int pugnotification_key_voice_reply = 0x7f090047;
+        public static int pugnotification_label_voice_reply = 0x7f090048;
+        public static int pugnotification_text_description_image_background = 0x7f090049;
+        public static int pugnotification_text_description_image_icon = 0x7f09004a;
+        public static int pugnotification_text_message = 0x7f09004b;
+        public static int pugnotification_text_notification = 0x7f09004c;
+        public static int pugnotification_text_notification_custom = 0x7f09004d;
+        public static int pugnotification_text_title = 0x7f09004e;
     }
 }

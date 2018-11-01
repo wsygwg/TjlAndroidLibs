@@ -23,7 +23,7 @@ android {
                 GETUI_APP_SECRET: "VmhFuwWPiR8iJg3aCNKO41"
         ]
         ndk {
-            abiFilters "armeabi", "armeabi-v7a", "x86_64"
+            abiFilters "armeabi-v7a", "x86_64"
         }
 
         //防止Liby引用过多造成com.android.dex.DexIndexOverflowException: method ID not in [0, 0xffff]: 65536
@@ -43,16 +43,14 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
-
-
-    testCompile "org.robolectric:robolectric:3+"
-    testCompile "org.mockito:mockito-core:2.+"
+    testCompile 'org.robolectric:robolectric:3+'
+    testCompile 'org.mockito:mockito-core:2.+'
     compile 'com.android.support:support-v13:25.0.1'
     compile 'com.android.support:appcompat-v7:25.0.1'
     compile 'com.android.support:support-v4:25.0.1'
@@ -67,48 +65,72 @@ dependencies {
     compile 'com.squareup.okio:okio:1.9.0'
     compile 'io.reactivex:rxandroid:1.2.1'
     compile 'io.reactivex:rxjava:1.1.6'
+
     //material style
     compile 'com.github.rey5137:material:1.2.4'
+
     //butterknife
     compile 'com.jakewharton:butterknife:8.4.0'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
+
     //FlycoTabLayout
     compile 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.0@aar'
+
     //BubblePopup,ActionSheetDialog
     compile 'com.flyco.dialog:FlycoDialog_Lib:1.3.2@aar'
+
     //swipelayout
+
     //    compile 'com.daimajia.swipelayout:library:1.2.0@aar'
-//    //选择框：选择日期，时间，地址等
-//    compile 'com.bigkoo:pickerview:2.1.1'
+
+    //    //选择框：选择日期，时间，地址等
+
+    //    compile 'com.bigkoo:pickerview:2.1.1'
+
     //gif动态图
     compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.3'
     compile 'com.yalantis:phoenix:1.2.3'
+
     //图表
     compile 'com.github.PhilJay:MPAndroidChart:v3.0.1'
+
     //图片加载
+
     //    compile 'com.squareup.picasso:picasso:2.5.2'
+
     //图片裁剪
+
     //    compile 'com.yalantis:ucrop:2.2.0'
+
     //圆角图片
+
     //    compile 'com.makeramen:roundedimageview:2.3.0'
+
     //个推
-    compile 'com.getui:sdk:2.10.2.0'
+
     //    //流式布局
+
     //    compile 'com.zhy:flowlayout-lib:1.0.3'
+
     //    compile 'com.zhy:base-adapter:2.0.1'
+
     //dao
     compile 'org.greenrobot:greendao:3.2.0'
+
     // This is only needed if you want to use encrypted databases
     compile 'net.zetetic:android-database-sqlcipher:3.5.4'
+
     //二维码扫描生成
     compile 'com.journeyapps:zxing-android-embedded:3.4.0'
     compile 'com.google.zxing:core:3.2.1'
+
     //BadgeView
     compile 'q.rorbin:badgeview:1.0.7'
     compile project(':zps_widget_PullToRefresh')
     compile project(':chatlib')
     compile project(':wavesidebar')
+
     //字母侧边栏
 
     //朋友圈库
@@ -120,13 +142,16 @@ dependencies {
     compile('com.github.bumptech.glide:okhttp3-integration:1.4.0') {
         exclude group: 'glide-parent'
     }
-
     compile 'pub.devrel:easypermissions:0.2.1'
     compile 'com.contrarywind:Android-PickerView:3.2.4'
+
     //开关效果
     compile 'com.kyleduo.switchbutton:library:1.4.5'
+
     //图片剪裁
     compile 'com.jph.takephoto:takephoto_library:4.0.3'
+
     //zxing二维码
     compile 'com.google.zxing:core:3.2.1'
+    compile project(':DynamicGrid')
 }

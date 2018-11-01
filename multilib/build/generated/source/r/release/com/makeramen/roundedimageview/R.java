@@ -22,21 +22,21 @@ public final class R {
         public static int riv_tile_mode_y = 0x7f010193;
     }
     public static final class id {
-        public static int clamp = 0x7f0e0043;
-        public static int mirror = 0x7f0e0044;
-        public static int repeat = 0x7f0e0045;
+        public static int clamp = 0x7f0f0043;
+        public static int mirror = 0x7f0f0044;
+        public static int repeat = 0x7f0f0045;
     }
     public static final class string {
-        public static int define_roundedimageview = 0x7f080029;
-        public static int library_roundedimageview_author = 0x7f080030;
-        public static int library_roundedimageview_authorWebsite = 0x7f080031;
-        public static int library_roundedimageview_isOpenSource = 0x7f080032;
-        public static int library_roundedimageview_libraryDescription = 0x7f080033;
-        public static int library_roundedimageview_libraryName = 0x7f080034;
-        public static int library_roundedimageview_libraryVersion = 0x7f080035;
-        public static int library_roundedimageview_libraryWebsite = 0x7f080036;
-        public static int library_roundedimageview_licenseId = 0x7f080037;
-        public static int library_roundedimageview_repositoryLink = 0x7f080038;
+        public static int define_roundedimageview = 0x7f090029;
+        public static int library_roundedimageview_author = 0x7f090030;
+        public static int library_roundedimageview_authorWebsite = 0x7f090031;
+        public static int library_roundedimageview_isOpenSource = 0x7f090032;
+        public static int library_roundedimageview_libraryDescription = 0x7f090033;
+        public static int library_roundedimageview_libraryName = 0x7f090034;
+        public static int library_roundedimageview_libraryVersion = 0x7f090035;
+        public static int library_roundedimageview_libraryWebsite = 0x7f090036;
+        public static int library_roundedimageview_licenseId = 0x7f090037;
+        public static int library_roundedimageview_repositoryLink = 0x7f090038;
     }
     public static final class styleable {
         public static int[] RoundedImageView = { 0x0101011d, 0x7f010188, 0x7f010189, 0x7f01018a, 0x7f01018b, 0x7f01018c, 0x7f01018d, 0x7f01018e, 0x7f01018f, 0x7f010190, 0x7f010191, 0x7f010192, 0x7f010193 };

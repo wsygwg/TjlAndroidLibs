@@ -1,386 +1,386 @@
 [
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_login_titlebar_setting.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_login_titlebar_setting.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_places_light.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_places_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\img_avatar_default_group.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\img_avatar_default_group.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_loader.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable\\ucrop_vector_loader.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\searchview_cursor.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\searchview_cursor.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\circle_frame_background_dark.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\circle_frame_background_dark.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\item_divider_line.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\item_divider_line.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_load_error.jpg",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_load_error.jpg"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_shadow_upside.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable\\ucrop_shadow_upside.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_del_state.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_del_state.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_login_titlebar_back.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_login_titlebar_back.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\click_bg.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\click_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_ic_crop.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable\\ucrop_vector_ic_crop.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_preview.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_title_btn_preview.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_white_bg.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\selector_white_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\start_video_record_button.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\start_video_record_button.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_loader_animated.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable\\ucrop_vector_loader_animated.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_back.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_title_btn_back.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_ic_crop.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable\\ucrop_vector_ic_crop.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\sport_total_level3.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\sport_total_level3.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\frame_bg.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\frame_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_pic_errorholder.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\hiss_pic_errorholder.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_video_sign.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\hiss_video_sign.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_search_view_corner_bg.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_search_view_corner_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_cancel.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_light_white_corner.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\transparent_light_white_corner.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\text_while.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\text_while.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\click_bg.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\click_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_places_light.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_places_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_load_ing.jpg",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_load_ing.jpg"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\84b1007b83f7295592f974d0e51a1434ec5b0aad\\output\\res\\drawable\\design_ic_visibility.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_loader_animated.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable\\ucrop_vector_loader_animated.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_vector_loader.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\drawable\\ucrop_vector_loader.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\voice_play_send.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\voice_play_send.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\button_recordnormal.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\button_recordnormal.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\black_divider.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\black_divider.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_people_light.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_people_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\black_divider.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\black_divider.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_pic_choose_selector.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\036c9936b5408856cc973001460061a424b22ce8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_gaode_map.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\hiss_gaode_map.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\bt_nobgd.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\bt_nobgd.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\searchview_cursor.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\searchview_cursor.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\button_recording.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\button_recording.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\switch_camera_mode_selector.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\switch_camera_mode_selector.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\84b1007b83f7295592f974d0e51a1434ec5b0aad\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\frame_bg.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\frame_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\circle_frame_background_dark.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\circle_frame_background_dark.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\circle_frame_background.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\circle_frame_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ucrop_shadow_upside.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\drawable\\ucrop_shadow_upside.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\bt_nobgd.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\bt_nobgd.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_ok_btn_state.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\gps_point.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\gps_point.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\voice_play_receiver.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\voice_play_receiver.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_video_sign.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\hiss_video_sign.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_symbols_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\sport_total_level3.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\sport_total_level3.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_ic_visibility.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\036c9936b5408856cc973001460061a424b22ce8\\output\\res\\drawable\\design_ic_visibility.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_light_white_corner.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\transparent_light_white_corner.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\img_avatar_default_girl.jpg",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\img_avatar_default_girl.jpg"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\frame_blue_to_thin_bg.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\frame_blue_to_thin_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_load_error.jpg",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_load_error.jpg"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\switch_camera_mode_selector.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\switch_camera_mode_selector.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_recent_light.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_recent_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_pic_placeholder.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\hiss_pic_placeholder.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_login_titlebar_back.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_login_titlebar_back.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\036c9936b5408856cc973001460061a424b22ce8\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_ok_btn_state.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_ok_btn_state.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\circle_frame_background.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\circle_frame_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_search_view_corner_bg.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_search_view_corner_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\stop_button_background.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\stop_button_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_symbols_light.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_symbols_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_objects_light.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_objects_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\stop_button_background.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\stop_button_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_pic_placeholder.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\hiss_pic_placeholder.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\84b1007b83f7295592f974d0e51a1434ec5b0aad\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_objects_light.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_objects_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\take_photo_button.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\take_photo_button.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_albumbackground.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_albumbackground.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_load_ing.jpg",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_load_ing.jpg"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\img_avatar_default_girl.jpg",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\img_avatar_default_girl.jpg"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_recent_light.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_recent_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_nature_light.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_nature_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_dark_white_corner.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\transparent_dark_white_corner.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\icon_gcoding.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\icon_gcoding.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\frame_blue_to_thin_bg.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\frame_blue_to_thin_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_people_light.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_people_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\pic_login_titlebar_setting.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\pic_login_titlebar_setting.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\ic_emoji_nature_light.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\emojiLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\ic_emoji_nature_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\selector_white_bg.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\selector_white_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\transparent_dark_white_corner.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\transparent_dark_white_corner.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\take_photo_button.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\take_photo_button.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\img_avatar_default_boy.jpg",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\img_avatar_default_boy.jpg"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\036c9936b5408856cc973001460061a424b22ce8\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_gaode_map.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\hiss_gaode_map.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\text_while.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\text_while.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\84b1007b83f7295592f974d0e51a1434ec5b0aad\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\item_divider_line.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\item_divider_line.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\icon_gcoding.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\icon_gcoding.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_albumbackground.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_albumbackground.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\button_recording.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\button_recording.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\036c9936b5408856cc973001460061a424b22ce8\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\img_avatar_default_group.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\img_avatar_default_group.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_preview.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_back.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_title_btn_back.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\hiss_pic_errorholder.png",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\hiss_pic_errorholder.png"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\gps_point.png",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\gps_point.png"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\start_video_record_button.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\camerafragment\\build\\intermediates\\bundles\\default\\res\\drawable\\start_video_record_button.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\voice_play_receiver.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\voice_play_receiver.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\button_recordnormal.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\button_recordnormal.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\84b1007b83f7295592f974d0e51a1434ec5b0aad\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\tao\\.android\\build-cache\\c1b0b7feb06b541ffa05b7e8282df9d47c98d5f8\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_del_state.xml",
+        "source": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_del_state.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_pic_choose_selector.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\voice_play_send.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\src\\main\\res\\drawable\\voice_play_send.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\img_avatar_default_boy.jpg",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\bundles\\default\\res\\drawable\\img_avatar_default_boy.jpg"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\plugin_camera_title_btn_cancel.xml",
-        "source": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\sharephoto\\build\\intermediates\\bundles\\default\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+        "merged": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\chatlib\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\tao\\.android\\build-cache\\94c3065e1973dd199a86c073119b237fad692aa1\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     }
 ]

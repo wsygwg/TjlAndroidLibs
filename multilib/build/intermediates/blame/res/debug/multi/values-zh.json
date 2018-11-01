@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\android-testing-master\\ui\\espresso\\TjlAndroidLibs\\multilib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "outputFile": "C:\\workspaces\\studio_workspace\\TjlAndroidLibs\\multilib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "C:\\Users\\tao\\.android\\build-cache\\1532977f431d2ed7f73faae725e405002663f12c\\output\\res\\values-zh\\values-zh.xml",
+                    "file": "C:\\Users\\tao\\.android\\build-cache\\63f029bca0542db01f7b248745008c006f8109e9\\output\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
